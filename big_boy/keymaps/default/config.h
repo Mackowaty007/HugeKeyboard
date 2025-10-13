@@ -1,0 +1,4 @@
+#define LED_NUM_LOCK_PIN 26
+#define LED_CAPS_LOCK_PIN 27
+#define LED_SCROLL_LOCK_PIN 28
+#define LED_PIN_ON_STATE 0
